@@ -73,8 +73,4 @@ Gosto de transformar ideias em aplicações completas, trabalhando tanto no **Fr
 
 ---
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrFagundes)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrFagundes)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 👨‍💻 Sempre aprendendo, criando e evoluindo!
