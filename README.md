@@ -1,76 +1,71 @@
-# Olá, eu sou o Gabriel! 👋
+<h1 align="center">
+  Olá 👋, eu sou Gabriel Fagundes
+</h1>
 
-Sou um **Programador Full Stack**, tenho **24 anos** e sou apaixonado por tecnologia.
+<h3 align="center">
+  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Tecnologia
+</h3>
 
-Gosto de transformar ideias em aplicações completas, trabalhando tanto no **Front-end** quanto no **Back-end**, e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+<p align="center">
+  Tenho 24 anos e sou um programador Full Stack apaixonado por tecnologia.
+  <br>
+  Gosto de transformar ideias em soluções digitais, criando aplicações modernas
+  e sempre buscando aprender novas tecnologias.
+</p>
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block">
+<p align="center">
 
-<img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align="center" alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<img align="center" alt="JSON" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 
-<img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<br>
 
-<img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
----
-
-## 💻 Áreas de Interesse
-
-- 🌐 Desenvolvimento Web
-- ⚛️ Front-end e Back-end
-- 🔗 APIs e Microsserviços
-- 🗄️ Banco de Dados
-- ☁️ Cloud e DevOps
-- 🚀 Desenvolvimento Full Stack
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 Sobre mim
 
-<div>
-<a href="https://github.com/GabrFagundes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrFagundes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</a>
+```javascript
+const gabriel = {
+  nome: "Gabriel Fagundes",
+  idade: 24,
+  cargo: "Desenvolvedor Full Stack",
 
-<a href="https://github.com/GabrFagundes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrFagundes&layout=compact&langs_count=7&theme=github_dark"/>
-</a>
-</div>
+  tecnologias: [
+    "JavaScript",
+    "React",
+    "Python",
+    "Java",
+    "C++"
+  ],
 
----
+  interesses: [
+    "Desenvolvimento Web",
+    "APIs",
+    "Banco de Dados",
+    "Software",
+    "Cloud"
+  ],
 
-## 📫 Entre em contato
-
-<div>
-
-<a href="https://github.com/GabrFagundes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### 👨‍💻 Sempre aprendendo, criando e evoluindo!
+  objetivo: "Criar soluções que transformam ideias em realidade 🚀"
+};
